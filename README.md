@@ -1,4 +1,5 @@
 # Coffee-sales Data Analysis
+## There are 3 worksheets that contains Orders, Products, Customers data
 ### Tools used: MS Excel
 ### Insights:
 #### 1. Total sales over time
